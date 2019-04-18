@@ -1,4 +1,4 @@
-# Generate Query
+# For CKIM2018
 
 ## 1. Environment Configuration
 
